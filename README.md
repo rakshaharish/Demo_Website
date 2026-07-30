@@ -30,24 +30,6 @@ Before you begin, ensure you have the following installed:
 - npm (v6.0.0 or higher)
 - Git
 
-## 📁 Project Structure
-
-```
-demo_website/
-├── src/
-│   ├── assets/
-│   │   ├── images/
-│   │   └── styles/
-│   ├── components/
-│   ├── utils/
-│   └── index.html
-├── tests/
-├── docs/
-├── .gitignore
-├── package.json
-└── README.md
-```
-
 ## 🔍 Usage
 
 ### Product Filtering
@@ -75,27 +57,6 @@ const newProduct = {
 await addProduct(newProduct);
 ```
 
-## 🧪 Testing
-TBD
-
-## 📈 Performance
-
-Our commitment to performance:
-
-- 📱 98/100 Mobile PageSpeed Score
-- 💻 99/100 Desktop PageSpeed Score
-- ⚡ First Contentful Paint < 1s
-- 🔄 Time to Interactive < 2s
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🔮 Roadmap
-
-- [ ] AI-powered size recommendations
-- [ ] AR try-on feature
-- [ ] Personalized shopping experiences
-- [ ] International shipping optimization
-
----
